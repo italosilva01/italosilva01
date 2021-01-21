@@ -8,8 +8,8 @@
 
 ## <img src="https://github.com/italosilva01/italosilva01/blob/main/assets/1f6e0.png" width="40" height="40" /> Tech Skill
 
-<div>
-  <div markdown="1" align="left" style="width:50%"  >
+<div style="width:90%">
+  <div markdown="1" align="left" style="width:25%"  >
   
   <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
   
