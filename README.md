@@ -5,7 +5,9 @@
 </h4>
 
 ## Hello<img src="https://github.com/italosilva01/italosilva01/blob/main/assets/Hand%20Wave.gif" width="40" height="40" />
-
+My life in technology begins when I joined the technical course at IMD / UFRN at the age of 17. In the course I had my first contact with HTML5, CSS and Javascript.
+Two years later, I started my bachelor's degree in information technology at IMD / UFRN.
+During graduation I had contact with React and Spring-boot and professional experience with both technologies.
 ## <img src="https://github.com/italosilva01/italosilva01/blob/main/assets/1f6e0.png" width="40" height="40" /> Tech Skill
 
 <div style="width:90%, display:flex, justifyContent:center" align="center">
