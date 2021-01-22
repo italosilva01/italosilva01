@@ -40,8 +40,8 @@ During graduation I had contact with React and Spring-boot and professional expe
   </div>
  
 ## Contact
-
-
-<div align="center" >Made with :heart: by <a href="https://github.com/italosilva01" target="_blank">Italo Silva</a>
+[![Gmail Badge](https://img.shields.io/badge/-italo.silvan87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Linkedin Badge](https://img.shields.io/badge/-franciscoitalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+<div align="left" >Made with :heart: by <a href="https://github.com/italosilva01" target="_blank">Italo Silva</a>
 </div>
 </div>
