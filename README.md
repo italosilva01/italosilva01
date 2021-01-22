@@ -40,9 +40,9 @@ During graduation I had contact with React and Spring-boot and professional expe
   </div>
  
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/-italo.silvan87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Gmail Badge](https://img.shields.io/badge/-italo.silvan87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fferreiralf.1@gmail.com)]
 (mailto:italo.silvan87@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-franciscoitalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Linkedin Badge](https://img.shields.io/badge/-franciscoitalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/santanasara/))]
 (https://www.linkedin.com/in/francisco-italo-03238a161/)
 
 
