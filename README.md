@@ -38,7 +38,10 @@ During graduation I had contact with React and Spring-boot and professional expe
 <div align="right" style="width:50%"><img src="https://github.com/italosilva01/italosilva01/blob/main/assets/Night-Coding.gif" >
 </div>
   </div>
-  
-<div align="left" >Made with :heart: by <a href="https://github.com/italosilva01" target="_blank">Italo Silva</a>
+ 
+## Contact
+
+
+<div align="center" >Made with :heart: by <a href="https://github.com/italosilva01" target="_blank">Italo Silva</a>
 </div>
 </div>
